@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="19de732f-6bf3-46e3-a773-bc11ad4db28b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/files-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files-java.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/FilePathInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/FileWriterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/FolderManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/ReadWithBuffereddReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/ReadWithScanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/application/TryWithResources.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1hqDITbqd7yn2urujSMfvsPsYG6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.09191179" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RunManager" selected="Application.FilePathInfo">
+    <configuration name="FilePathInfo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.FilePathInfo" />
+      <module name="files-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FileWriterClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.FileWriterClass" />
+      <module name="files-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FolderManipulation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.FolderManipulation" />
+      <module name="files-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ReadWithBuffereddReader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.ReadWithBuffereddReader" />
+      <module name="files-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryWithResources" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="application.TryWithResources" />
+      <module name="files-java" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="application.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.FilePathInfo" />
+        <item itemvalue="Application.FolderManipulation" />
+        <item itemvalue="Application.FileWriterClass" />
+        <item itemvalue="Application.TryWithResources" />
+        <item itemvalue="Application.ReadWithBuffereddReader" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="19de732f-6bf3-46e3-a773-bc11ad4db28b" name="Default Changelist" comment="" />
+      <created>1600729650021</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1600729650021</updated>
+      <workItem from="1600729652174" duration="6168000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="360" y="1211" key="#Project_Structure" timestamp="1600731236308">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="360" y="1211" key="#Project_Structure/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600731236308" />
+    <state x="744" y="1430" width="974" height="413" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1600732800479">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="744" y="1430" width="974" height="413" key="#com.intellij.fileTypes.FileTypeChooser/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600732800479" />
+    <state width="1317" height="265" key="GridCell.Tab.0.bottom" timestamp="1600735354492">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1317" height="265" key="GridCell.Tab.0.bottom/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600735354492" />
+    <state width="1317" height="265" key="GridCell.Tab.0.center" timestamp="1600735354492">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1317" height="265" key="GridCell.Tab.0.center/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600735354492" />
+    <state width="1317" height="265" key="GridCell.Tab.0.left" timestamp="1600735354492">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1317" height="265" key="GridCell.Tab.0.left/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600735354492" />
+    <state width="1317" height="265" key="GridCell.Tab.0.right" timestamp="1600735354492">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state width="1317" height="265" key="GridCell.Tab.0.right/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600735354492" />
+    <state x="319" y="1211" width="977" height="737" key="SettingsEditor" timestamp="1600730247481">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="319" y="1211" width="977" height="737" key="SettingsEditor/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600730247481" />
+    <state x="943" y="1545" width="585" height="183" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1600731675847">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="943" y="1545" width="585" height="183" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600731675847" />
+    <state x="969" y="1398" width="524" height="478" key="extract.method.dialog" timestamp="1600731866511">
+      <screen x="0" y="1080" width="1920" height="1080" />
+    </state>
+    <state x="969" y="1398" width="524" height="478" key="extract.method.dialog/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600731866511" />
+    <state x="900" y="792" key="run.anything.popup" timestamp="1600733777172">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="900" y="792" key="run.anything.popup/0.1080.1920.1080/0.0.1920.1080@0.1080.1920.1080" timestamp="1600733777172" />
+  </component>
+</project>
